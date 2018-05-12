@@ -1,0 +1,53 @@
+_repo: Off-to-the-WildsBeing-the-Adventures-of-Two-Brothers_21359
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Hildibrand, Henri Théophile
+    aliases:
+    - Hildibrand
+    - Hildibrand, Henri Theophile
+    birthdate: 1824
+    deathdate: 1897
+    gutenberg_agent_id: '9881'
+    url: http://www.gutenberg.org/2009/agents/9881
+  - agent_name: Riou, Edouard
+    aliases:
+    - Riou, Édouard
+    - Riou, E. (Edouard)
+    - Riou
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '33898'
+    url: http://www.gutenberg.org/2009/agents/33898
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. M. (George Manville)
+    - Fenn, G. Manville (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_bookshelf: Animals-Wild-Trapping
+gutenberg_issued: '2007-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting stories'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'South Africa -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Off to the Wilds: Being the Adventures of Two Brothers'
+url: http://www.gutenberg.org/ebooks/21359
